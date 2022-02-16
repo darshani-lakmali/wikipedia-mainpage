@@ -1,4 +1,4 @@
-This is for InfoTrack assignment to automate the wikipedia main page.Following Test scenarios are covered from this automation suite.
+This assignment is to automate the wikipedia main page.Following Test scenarios are covered from this automation suite.
 1.Title of main page.
 2. Title of Wiki logo
 3. User search a key word
